@@ -1,1 +1,2 @@
-# LineageOS-Camera
+# LineageOS-Camera 
+Android 13+
