@@ -1,2 +1,2 @@
 # LineageOS-Camera 
-Android 4.4+
+Android 1+
