@@ -1,3 +1,3 @@
 # LineageOS-Camera 
-Android 1+
-Arm-v8 only
+- Android 1+
+- Arm-v8 only
